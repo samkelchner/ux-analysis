@@ -15,7 +15,7 @@ When selecting exercises in cardio rounds, the app only displays the first exerc
 This bug affects the user's ability to customize their cardio exercises. This may cause users to incorrectly document the exercises they performed or not complete cardio at all.
 
 ## Evidence
-- Tested December 2024
+- Tested October 2025
 - Bug appears to be mid-fix (backend updated, frontend pending)
 - Exercise notes issue appears to be resolved
 
